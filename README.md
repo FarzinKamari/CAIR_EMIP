@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-<img src=https://static.wixstatic.com/media/26a7de_c3cc924c47c543a6b79aab02cc704521~mv2.png/v1/fill/w_73,h_73,al_c,q_85,usm_0.66_1.00_0.01/Asset%203xxxhdpi.webp width=36/>
+<img>
 <img src=https://avatars0.githubusercontent.com/u/61604395?s=200&v=4 width=250/>
 
 
