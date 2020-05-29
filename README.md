@@ -18,7 +18,7 @@ Do give a star if you like this project!
 This package is the python and R implementation of the above entitled unpublished article.
 This package uses the python libraries numpy, pandas, and biopython.
 
-The easiest way to install CAIR-EMIP is by the following procedure using pip:
+The easiest way to run CAIR-EMIP Python codes is by typing these lines in cmd/terminal:
 ```
 git clone https://github.com/synaptic-proteolab/CAIR_EMIP.git
 cd CAIR-EMIP
