@@ -22,7 +22,7 @@ R codes: [https://github.com/synaptic-neurolab/****](https://github.com/synaptic
 
 Violin plots of each evolutionary node and their corresponding mean comparison tests of the brunner-munzel:
 
-<img src="img/violin_plots.png" height="300"> 
+<img src="img/violin_plots.png" height="800"> 
 
 
 ## EMIP comparison analyses
