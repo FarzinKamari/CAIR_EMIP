@@ -1,5 +1,5 @@
-[![HitCount](http://hits.dwyl.com/synaptic-proteolab/CAIR-EMIP.svg)](http://hits.dwyl.com/synaptic-proteolab/CAIR-EMIP)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/synaptic-proteolab/CAIR-EMIP/pulls)
+[![HitCount](http://hits.dwyl.com/synaptic-proteolab/CAIR_EMIP.svg)](http://hits.dwyl.com/synaptic-proteolab/CAIR_EMIP)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/synaptic-proteolab/CAIR_EMIP/pulls)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
@@ -20,12 +20,12 @@ This package uses the python libraries numpy, pandas, and biopython.
 
 The easiest way to install CAIR-EMIP is by the following procedure using pip:
 ```
-git clone https://github.com/synaptic-proteolab/CAIR-EMIP.git
+git clone https://github.com/synaptic-proteolab/CAIR_EMIP.git
 cd CAIR-EMIP
 ```
 Reference Paper
 -------
-Kamari F, Dadmand S. ["An extension of Shannon’s entropy agrees with the tree of life and justifies human disease occurrences"] 2020 Nature Methods (under submission).
+Kamari F, Dadmand S. ["An extension of Shannon’s entropy agrees with the tree of life and justifies human disease occurrences"] 2020 (under submission).
 
 License
 -------
