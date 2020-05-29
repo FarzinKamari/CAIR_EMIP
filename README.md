@@ -21,7 +21,7 @@ This package uses the python libraries numpy, pandas, and biopython.
 The easiest way to run CAIR-EMIP Python codes is by typing these lines in cmd/terminal:
 ```
 git clone https://github.com/synaptic-proteolab/CAIR_EMIP.git
-cd CAIR-EMIP
+cd CAIR_EMIP
 ```
 Reference Paper
 -------
